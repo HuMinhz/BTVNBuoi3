@@ -1,0 +1,15 @@
+.hero {
+    background-image: url('images.png');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.posts > article {
+    background-color: lightpink;
+}
+h3 ~ p{
+    background-color: #fffbeb;
+}
+.active {
+    font-size: 20px;
+}
